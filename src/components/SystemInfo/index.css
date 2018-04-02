@@ -1,0 +1,32 @@
+.systemInfo {
+    height: 64px;
+    line-height: 64px;
+    padding:0 25px;
+    background-color: #fafafa;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: fixed;
+    top:0;
+    right: 0;
+    left: 300px;
+    z-index: 999;
+    box-shadow: 0 1px 5px rgba(0,0,0,.2);
+}
+.systemName {
+    color: #4a4a4a;
+    font-size: 18px;
+}
+.userInfo,
+.userName>span {
+    display: flex;
+    align-items: center;
+}
+.userName {
+    margin-right: 10px;
+}
+.loginButton,
+.logupButton {
+    cursor: pointer;
+    margin-right: 10px;
+}

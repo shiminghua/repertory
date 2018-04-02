@@ -1,0 +1,17 @@
+.header {
+    position: fixed;
+    top: 0;
+    left:0 ;
+    bottom: 0;
+    width:300px;
+    background: #404040;
+    overflow: scroll;
+}
+.menuList  {
+    margin-top: 60px;
+    border: none;
+}
+
+.header ::-webkit-scrollbar { 
+    display: none; 
+}

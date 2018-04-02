@@ -1,0 +1,36 @@
+
+.normal {
+    text-align: center;
+    padding-top: 150px;
+    background-color: #fff;
+    box-sizing: border-box;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+.title {
+    font-size: 24px;
+    font-weight: normal;
+    letter-spacing: 1px;
+}
+
+.welcome {
+    height: 328px;
+    background: url(../../assets/yay.jpg) no-repeat center 0;
+    background-size: 388px 328px;
+    margin-top: 50px;
+}
+
+.list {
+    font-size: 1.2em;
+    margin-top: 1.8em;
+    list-style: none;
+    line-height: 1.5em;
+}
+
+.list code {
+    background: #f7f7f7;
+}
