@@ -1,6 +1,6 @@
 # 小型库存管理系统
 
-项目来源与![dva实例](https://github.com/yvanwangl/AccountSystem.git)
+项目来源与 [dva实例](https://github.com/yvanwangl/AccountSystem.git)
 
 ## AccountSystem 一个小型库存管理系统
 
